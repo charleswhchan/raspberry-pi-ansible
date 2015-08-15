@@ -8,3 +8,10 @@ $ wget http://downloads.raspberrypi.org/raspbian_latest
 $ tar -xzvf raspbian_latest
 ```
 * Format SD card, follow the instructions on https://www.raspberrypi.org/documentation/installation/installing-images/
+* Insert the SD card into RPi
+* Insert the ethernet cable into the RPi
+* Plug in the power supply
+* SSH into the RPi by
+```
+$ ssh pi@raspberry     # pw: raspberry
+```
