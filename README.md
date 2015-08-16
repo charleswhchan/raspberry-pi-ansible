@@ -1,5 +1,5 @@
 # raspberry-pi-ansible
-Provision a new Raspberry Pi in "headless: mode using [Ansible](http://www.ansible.com/home). Without requiring a keyboard, mouse, or monitor to be connected. Great way to set it up for development and/or tests.
+Provision a new Raspberry Pi in "headless" mode using [Ansible](http://www.ansible.com/home). Without requiring a keyboard, mouse, or monitor to be connected. Great way to set it up for development and/or tests.
 
 * Download the latest Raspbian image from https://www.raspberrypi.org/downloads/
 ```
