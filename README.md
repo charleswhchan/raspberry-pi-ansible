@@ -13,5 +13,5 @@ $ tar -xzvf raspbian_latest
 * Plug in the power supply
 * SSH into the RPi by
 ```
-$ ssh pi@raspberry     # pw: raspberry
+$ ssh pi@raspberrypi     # pw: raspberry
 ```
